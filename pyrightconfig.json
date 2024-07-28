@@ -1,0 +1,10 @@
+{
+  "exclude": [
+    "bazel-*",
+    "example/bazel-*"
+  ],
+  "include": [
+    "**/*.py"
+  ],
+  "reportMissingImports": true
+}

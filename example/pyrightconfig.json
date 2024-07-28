@@ -1,0 +1,40 @@
+{
+  "include": [
+    "**/*.py"
+  ],
+  "exclude": [
+    "bazel-*"
+  ],
+  "extraPaths": [
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~pip~pip_311_numpy/site-packages",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__importlib_metadata",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__setuptools",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__zipp",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__colorama",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__click",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__pep517",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__pip_tools",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__tomli",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__pyproject_hooks",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__build",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__more_itertools",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__packaging",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__pip",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__zipp",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__more_itertools",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__pip",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__setuptools",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__click",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__pip_tools",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__tomli",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__importlib_metadata",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__packaging",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__pyproject_hooks",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__build",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__pep517",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~pip~pip_311_numpy/site-packages",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~~internal_deps~pypi__colorama",
+    "/home/agoessling/.cache/bazel/_bazel_agoessling/0164ff25c93eaccda7b5ec9b72e01063/external/rules_python~"
+  ]
+}
