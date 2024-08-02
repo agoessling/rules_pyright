@@ -6,4 +6,5 @@ npm_link_all_packages(name = "node_modules")
 pyright.pyright_binary(
     name = "pyright",
     env = {"BAZEL_BINDIR": "."}, # Allow the binary to be run outside bazel
+    visibility = ["//visibility:public"],
 )
